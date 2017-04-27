@@ -1,0 +1,51 @@
+/*the top logo bar*/
+.top{
+    height: 100px;
+    background-color: #303E9F ;
+    color: white;
+}
+
+#logo{
+    float: left;
+}
+
+h3{
+    text-align: center;
+}
+
+#logor{
+    float: right;
+}
+
+/*navbar*/
+#middle{
+    height: 50px;
+    background-color: #303E9F ;
+}
+
+/*body*/
+#more{
+    float: right;
+}
+
+p{
+   float: right; 
+}
+
+
+/*message*/
+#message{
+    height: 120px;
+    background-color: white ;
+}
+
+.message{
+   float: right; 
+}
+
+/*end*/
+.end{
+    height: 70px;
+    background-color: black;
+    color: white;
+}
